@@ -1,3 +1,5 @@
-Esto fue y sera una prueba de git
+Esto es una prueba de git
 
-Git sirve para:
+Esto es otro cambio
+
+
