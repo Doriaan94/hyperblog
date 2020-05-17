@@ -41,3 +41,8 @@ body
 {
     padding: 1em;
 }
+.footer
+{
+    background-color: indianred;
+    color: green;
+}
