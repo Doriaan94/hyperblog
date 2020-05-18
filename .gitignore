@@ -1,2 +1,8 @@
+#comentarios
+
 *.jpg
 *.gif
+/imagenes
+
+#para colocar cosas que no queremos ignorar !
+!.txt
